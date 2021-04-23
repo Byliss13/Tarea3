@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MatematicoV2
+comment0.text=\r\n\ La\ clase\ matematico\ es\ la\ tercera\ tarea.\r\n\ \r\n\ @author\ (Lisandro\ Vargas\ Mu\u00F1oz\ )\ \r\n\ @version\ (22/04/2021)\r\n
+comment1.params=nombre
+comment1.target=MatematicoV2(java.lang.String)
+comment1.text=\r\n\ Constructor\ para\ asignar\ el\ nombre\r\n
+comment2.params=a\ b\ c
+comment2.target=java.lang.String\ calcularEcuacion(int,\ int,\ int)
+comment2.text=\r\n\ este\ metodo\ calcula\ las\ soluciones\ de\ una\ ecuacion\ de\ 2do\ Grado\r\n
+comment3.params=x\ y\ i\ j
+comment3.target=java.lang.String\ EncontrarEcuacionDeLaRecta(int,\ int,\ int,\ int)
+comment3.text=\r\n\ este\ metodo\ obtiene\ la\ ecuacion\ de\ la\ recta\ \r\n
+comment4.params=h\ c1
+comment4.target=double\ CatetoFatante(double,\ double)
+comment4.text=\r\n\ este\ metodo\ obtiene\ el\ cateto\ faltante\ \r\n
+numComments=5
